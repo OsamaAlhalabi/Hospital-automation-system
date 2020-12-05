@@ -1,0 +1,12 @@
+﻿  Run.cpp
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1096): warning C4101: 'add': unreferenced local variable
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1295): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1300): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1320): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1326): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1518): warning C4101: 'ae': unreferenced local variable
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1518): warning C4101: 'aw': unreferenced local variable
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1717): warning C4101: 'n': unreferenced local variable
+c:\users\osama al halabi\documents\visual studio 2017\projects\programming 3 project\programming 3 project\run.cpp(1736): warning C4101: 'n': unreferenced local variable
+  Programming 3 Project.vcxproj -> c:\users\osama al halabi\documents\visual studio 2017\Projects\Programming 3 Project\Debug\Programming 3 Project.exe
+  Programming 3 Project.vcxproj -> c:\users\osama al halabi\documents\visual studio 2017\Projects\Programming 3 Project\Debug\Programming 3 Project.pdb (Partial PDB)
